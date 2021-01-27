@@ -13,7 +13,10 @@
         "laravel": {
             "providers": [
                 "Emba\\ContactForm\\ContactFormServiceProvider"
-            ]
+            ],
+            "aliases": {
+                "ContactForm": "Emba\\ContactForm\\Facade"
+            }
         }
     },
     "require": {}
