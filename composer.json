@@ -9,12 +9,5 @@
             "Emba\\ContactForm\\": "src/"
         }
     },
-    "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Emba\\ContactForm\\ContactFormServiceProvider"
-            ]
-        }
-    }
+    "require": {}
 }
